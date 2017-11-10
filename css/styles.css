@@ -10,7 +10,10 @@ p {
 		}
 #myHeading {
 	background-color: aliceblue;
-	border: 2px red;
+	border-: 2px red;
 	font-size: 200%
 	
+}
+tab {
+	color: red;
 }
